@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\ClasseFuncionário.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\ClasseFuncionário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\ClasseFuncionário.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\ClasseFuncionário.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\ClasseFuncionário.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\bin\Debug\net6.0\ClasseFuncionário.exe
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\bin\Debug\net6.0\ClasseFuncionário.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\bin\Debug\net6.0\ClasseFuncionário.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\bin\Debug\net6.0\ClasseFuncionário.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\bin\Debug\net6.0\ClasseFuncionário.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\ClasseFuncionário.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\refint\ClasseFuncionário.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\ClasseFuncionário.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\ClasseFuncionário.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseFuncionário\obj\Debug\net6.0\ref\ClasseFuncionário.dll
