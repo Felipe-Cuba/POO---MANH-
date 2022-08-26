@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\bin\Debug\net6.0\ClasseProduto.exe
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\bin\Debug\net6.0\ClasseProduto.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\bin\Debug\net6.0\ClasseProduto.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\bin\Debug\net6.0\ClasseProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\bin\Debug\net6.0\ClasseProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\ClasseProduto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\ClasseProduto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\ClasseProduto.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\ClasseProduto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\ClasseProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\refint\ClasseProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\ClasseProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\ClasseProduto.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ClasseProduto\obj\Debug\net6.0\ref\ClasseProduto.dll

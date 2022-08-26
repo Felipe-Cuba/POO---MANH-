@@ -16,18 +16,25 @@ namespace ClasseConta // Nossa pasta
 
        //Delcaração dos metódos 
         
-        public void Sacar(){
+        public void Sacar(double valorSaque){
+
+            saldo -= valorSaque;
 
         }
 
-        public void depositar(){
-            
+        public void Depositar(double valorDeposito){
+            saldo += valorDeposito;
+        }
+
+        public void Transferir(double valorTransferir, Conta objConta){
+            //Passagem de parametro por valor usa valorTrasnferir
+            //Passagem de valor por refêrencia usa objConta
+            saldo -= valorTransferir; //Objeto atual
+            objConta.saldo += valorTransferir; //Objeto a tranferir
         }
 
         public void MostrarAtributos(){
-            Console.WriteLine($"-=-=-=-=-=-=-=-=-=-=-=-=- Conta {numero} =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
-            Console.WriteLine($"\nNome do titular: {titular}\nNumero da conta: {numero}\nSaldo da conta: {saldo:c}\n");
-            Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= \n\n\n");
+            Console.WriteLine($"Nome do titular: {titular}\t  Numero da conta: {numero}\t   Saldo da conta: {saldo:c}");
         }
         
     }
