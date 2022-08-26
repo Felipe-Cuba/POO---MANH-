@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\bin\Debug\net6.0\ArrayConta.exe
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\bin\Debug\net6.0\ArrayConta.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\bin\Debug\net6.0\ArrayConta.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\bin\Debug\net6.0\ArrayConta.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\bin\Debug\net6.0\ArrayConta.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\ArrayConta.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\ArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\ArrayConta.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\ArrayConta.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\ArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\ArrayConta.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\refint\ArrayConta.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\ArrayConta.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\ArrayConta.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayConta\obj\Debug\net6.0\ref\ArrayConta.dll
