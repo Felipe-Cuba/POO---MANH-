@@ -22,19 +22,30 @@ for (int i = 0; i < vetorProduto.Length; i++){
     Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n");
 }
 
-foreach (Produto p in vetorProduto){
-    p.MostrarProdutos();
-}
-
-
-
-
-foreach (Produto p in vetorProduto){
-    p.CalcularAumento(15);
-}
-
-Console.WriteLine("\n\n");
+Console.WriteLine($"\n------------------------- Produtos -------------------------\n");
 
 foreach (Produto p in vetorProduto){
     p.MostrarProdutos();
 }
+
+Console.WriteLine($"\n------------------------------------------------------------\n");
+
+
+
+Console.Write("Valor em porcentagem que deseja aplicar aos produtos(Em caso de números decimais utilize ','): ");
+
+double perCent = Convert.ToDouble(Console.ReadLine()); 
+
+foreach (Produto p in vetorProduto){
+    p.CalcularAumento(perCent);
+}
+
+
+
+Console.WriteLine($"\n------------------------- Produtos -------------------------\n");
+
+foreach (Produto p in vetorProduto){
+    p.MostrarProdutos();
+}
+
+Console.WriteLine($"\n------------------------------------------------------------\n");

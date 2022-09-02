@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\EncapsulamentoProduto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\EncapsulamentoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\EncapsulamentoProduto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\EncapsulamentoProduto.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\EncapsulamentoProduto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\bin\Debug\net6.0\EncapsulamentoProduto.exe
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\bin\Debug\net6.0\EncapsulamentoProduto.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\bin\Debug\net6.0\EncapsulamentoProduto.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\bin\Debug\net6.0\EncapsulamentoProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\bin\Debug\net6.0\EncapsulamentoProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\EncapsulamentoProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\refint\EncapsulamentoProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\EncapsulamentoProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\EncapsulamentoProduto.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\EncapsulamentoProduto\obj\Debug\net6.0\ref\EncapsulamentoProduto.dll
