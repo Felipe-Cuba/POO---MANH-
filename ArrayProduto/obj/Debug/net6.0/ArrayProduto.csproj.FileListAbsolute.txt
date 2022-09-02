@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\ArrayProduto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\ArrayProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\ArrayProduto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\ArrayProduto.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\ArrayProduto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\bin\Debug\net6.0\ArrayProduto.exe
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\bin\Debug\net6.0\ArrayProduto.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\bin\Debug\net6.0\ArrayProduto.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\bin\Debug\net6.0\ArrayProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\bin\Debug\net6.0\ArrayProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\ArrayProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\refint\ArrayProduto.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\ArrayProduto.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\ArrayProduto.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\ArrayProduto\obj\Debug\net6.0\ref\ArrayProduto.dll
