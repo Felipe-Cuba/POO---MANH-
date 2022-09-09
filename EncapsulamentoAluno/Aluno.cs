@@ -7,65 +7,76 @@ namespace EncapsulamentoAluno
 {
     public class Aluno
     {
+
         private int matricula;
         private string nome;
-        private double p1, p2, media;
-
+        private double p1;
+        private double p2;
+        private double media;
         public int Matricula
         {
-            get => matricula;
-            set  
-            {
+            get { return matricula; }
+            set 
+            { 
+                if (value > 0)
+                {
                     matricula = value;
-                    Console.WriteLine($"Success ----> Matricula inserida com sucesso!!\n");
+                }
+                else
+                {
+                    Console.WriteLine("Matricula inválida!!!");
+                }
             }
         }
 
+
         public string Nome
         {
-            get => nome;
-            set
-            {
-                nome = value;
-                Console.WriteLine($"Success ----> Nome inserido com sucesso!!\n");
-            }
+            get { return nome; }
+            set => nome = value;
         }
 
         public double P1
         {
-            get => p1;
-            set
+            get { return p1; }
+            set 
             {
-                p1 = value;
-                Console.WriteLine($"Success ----> Nota P1 inserida com sucesso!!\n");
+                if (value >= 0 &&  value <= 10)
+                {
+                    p1 = value;
+                }
+                else
+                {
+                    Console.WriteLine("Nota da P1 inválida!!!");
+                }
             }
         }
 
         public double P2
         {
-            get => p2;
-            set
+            get { return p2; }
+            set 
             {
-                p2 = value;
-                Console.WriteLine($"Success ----> Nota P2 inserida com sucesso!!\n");
+                if (value >= 0 &&  value <= 10)
+                {
+                    p2 = value;
+                }
+                else
+                {
+                    Console.WriteLine("Nota da P2 inválida!!!");
+                }
             }
         }
 
         public double Media
         {
-            get => media;
-            set
-            {
-                media = value;
-                Console.WriteLine($"Success ----> Média inserida com sucesso!!\n");
+            get 
+            { 
+                media = (P1 + P2) / 2; 
+                return media;
             }
         }
-
-        public void MostrarDados(){
-            Console.WriteLine($"\n------------------------------------------------------------\n");
-            Console.WriteLine($"Matricula: {matricula}\nNome: {nome}\nNota P1: {p1}\tNota P2: {p2}\nMédia: {media}");
-            Console.WriteLine($"\n------------------------------------------------------------\n");
-
-        }
+        
+        
     }
 }
