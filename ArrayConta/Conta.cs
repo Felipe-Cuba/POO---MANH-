@@ -34,7 +34,7 @@ namespace ArrayConta
 
         public void MostrarAtributos(){
             Console.WriteLine($"------------------------- Conta de {titular}:{numero} -------------------------------");
-            Console.WriteLine($"\nNome do titular: {titular}\tNumero da conta: {numero}\tSaldo da conta: {saldo:c}\n");
+            Console.WriteLine($"\nNome do titular: {titular}\tNumero da conta: {numero}\tSaldo da contas: {saldo:c}\n");
         }
     }
 }
