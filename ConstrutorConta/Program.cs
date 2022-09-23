@@ -12,3 +12,5 @@ c3.MostrarAtributos();
 
 Conta c4 = new Conta(16, "Mario",1503);
 c4.MostrarAtributos();
+
+Console.WriteLine($"Quantidade de instâncias: {Conta.Contador}");
