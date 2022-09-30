@@ -6,7 +6,8 @@ Funcionario[] funcionarios = new Funcionario[3];
 for (int i = 0; i < funcionarios.Length; i++){
     
     funcionarios[i] = new Funcionario();
-    
+    funcionarios[i].Codigo = i;
+    funcionarios[i].Contador = i;
     Console.WriteLine("-=-=-=-=-=-=-=-= Cadastro de funcionário -=-=-=-=-=-=-=-=-");
     // Cadastro nome funcionário
 

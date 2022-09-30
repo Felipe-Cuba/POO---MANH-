@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.exe
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\bin\Debug\net6.0\AgregacaoVenda.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\refint\AgregacaoVenda.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\AgregacaoVenda.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Agregacao\AgregacaoVenda\obj\Debug\net6.0\ref\AgregacaoVenda.dll

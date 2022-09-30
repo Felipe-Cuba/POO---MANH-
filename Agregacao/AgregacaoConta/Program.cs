@@ -52,6 +52,7 @@ contavetor.VetorTitular = new List<Cliente>();
 
 Cliente cli1 = new Cliente();
 Cliente cli2 = new Cliente();
+cli1.Cpf = 4000;
 contavetor.VetorTitular.Add(cli1);
 contavetor.VetorTitular.Add(cli2);
 

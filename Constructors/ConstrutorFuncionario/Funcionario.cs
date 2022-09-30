@@ -7,33 +7,20 @@ namespace ConstrutorFuncionario
 {
     public class Funcionario
     {
-        private static int codigo;
+        private int codigo;
         private string nome;
         private double salario;
 
-        private static int contador;
+        private int contador;
 
-        
-        static Funcionario() {
-            Codigo = 100;
-            Contador = 0;
-        }
-
-        public Funcionario() {
-            Codigo++;
-            Contador++;
-        }
-
-        public static int Contador {
+        public int Contador {
             get { return contador; }
-            set {
-                contador = value;
-            }
+            set { contador = value; }
         }
 
-        public static int Codigo{
+        public int Codigo{
             get { return codigo; }
-            private set { codigo = Codigo; }
+            set { codigo = value + 100; }
         }
 
         public string Nome {
