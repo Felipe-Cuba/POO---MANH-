@@ -26,7 +26,11 @@ namespace ConstrutorFuncionario
         public string Nome {
             get { return nome; }
             set {
-                nome = value;
+                if (value != ""){
+                    nome = value;
+                } else {
+                    Console.WriteLine("Nome inválido!");
+                }
             }
         }
 

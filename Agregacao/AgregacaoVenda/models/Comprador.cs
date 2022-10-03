@@ -15,9 +15,13 @@ namespace AgregacaoVenda.models
             set { verba = value; }
         }
 
+        public Comprador(double verb)
+        {
+            this.Verba = verb;
+        }
         public void MostrarAtributos()
         {
-            Console.WriteLine($"Verba: {verba}");
+            Console.WriteLine($"Verba do comprador: {verba}\n");
         }
     }
 }

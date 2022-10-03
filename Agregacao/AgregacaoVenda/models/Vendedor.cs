@@ -21,7 +21,7 @@ namespace AgregacaoVenda.models
 
         public void MostraAtributos()
         {
-            Console.WriteLine($"Comissão: {comissao:c}");
+            Console.WriteLine($"Comissão do vendedor: {comissao:c}");
         }
     }
 }
