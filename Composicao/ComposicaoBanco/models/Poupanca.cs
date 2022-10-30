@@ -9,7 +9,8 @@ namespace ComposicaoBanco.models
     {
         private double saldo;
 
-        public double Saldo {
+        public double Saldo
+        {
             get { return saldo; }
             set { saldo = value; }
         }

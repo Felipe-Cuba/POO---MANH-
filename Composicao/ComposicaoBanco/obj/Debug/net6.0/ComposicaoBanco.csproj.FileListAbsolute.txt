@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.exe
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.deps.json
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.runtimeconfig.json
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.dll
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\bin\Debug\net6.0\ComposicaoBanco.pdb
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.dll
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\refint\ComposicaoBanco.dll
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.pdb
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\ComposicaoBanco.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\POO-MANHA\Composicao\ComposicaoBanco\obj\Debug\net6.0\ref\ComposicaoBanco.dll

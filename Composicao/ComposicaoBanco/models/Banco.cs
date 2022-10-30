@@ -10,10 +10,25 @@ namespace ComposicaoBanco.models
         private List<Poupanca> poups;
         private List<ContaCorrente> contas;
 
-        public Banco(List<Poupanca> p, List<ContaCorrente> c) {
-            poups = p;
-            contas = c;
+        public List<Poupanca> Poups
+        {
+            get { return poups; }
+            set { poups = value; }
         }
+
+        public List<ContaCorrente> Contas
+        {
+            get { return contas; }
+            set { contas = value; }
+        }
+
+        public Banco(List<Poupanca> p, List<ContaCorrente> c)
+        {
+            Poups = p;
+            Contas = c;
+        }
+
+
 
     }
 }

@@ -10,12 +10,14 @@ namespace ComposicaoBanco.models
         private double saldo;
         private double chequeEspecial;
 
-        public double Saldo {
+        public double Saldo
+        {
             get { return saldo; }
             set { saldo = value; }
         }
 
-        public double ChequeEspecial {
+        public double ChequeEspecial
+        {
             get { return chequeEspecial; }
             set { chequeEspecial = value; }
         }
