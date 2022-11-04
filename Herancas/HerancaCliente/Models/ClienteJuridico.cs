@@ -25,7 +25,7 @@ namespace HerancaCliente.Models
             CNPJ = cn;
         }
 
-        public void Show() {
+        public override void MostrarAtributos() {
             base.MostrarAtributos();
             Console.Write($"\tCNPJ: {CNPJ}\n");
         }

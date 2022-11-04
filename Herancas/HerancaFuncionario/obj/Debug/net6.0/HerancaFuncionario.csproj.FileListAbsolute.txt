@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.exe
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\bin\Debug\net6.0\HerancaFuncionario.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\refint\HerancaFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\HerancaFuncionario.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Herancas\HerancaFuncionario\obj\Debug\net6.0\ref\HerancaFuncionario.dll

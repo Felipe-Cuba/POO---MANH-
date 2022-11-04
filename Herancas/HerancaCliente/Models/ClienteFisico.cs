@@ -19,7 +19,7 @@ namespace HerancaCliente.Models
             RG = r;
         }
 
-        public void Show() {
+        public override void MostrarAtributos() {
             base.MostrarAtributos();
             Console.Write($"\tRG: {RG}\n");
         }

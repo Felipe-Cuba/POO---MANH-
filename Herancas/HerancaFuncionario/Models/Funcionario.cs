@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace HerancaCliente.Models
+namespace HerancaFuncionario.Models
 {
-    public class Cliente
+    public class Funcionario
     {
         protected int codigo;
         protected string nome;
-        protected string endereco;
+        protected double salario;
 
         public int Codigo
         {
@@ -23,21 +23,20 @@ namespace HerancaCliente.Models
             set { nome = value; }
         }
 
-        public string Endereco
+        public double Salario
         {
-            get { return endereco; }
-            set { endereco = value; }
+            get { return salario; }
+            set { salario = value; }
         }
 
-        public Cliente(int c, string e, string n) {
-            Codigo = c;
-            Endereco = e;
-            Nome = n;
+        public Funcionario(double sal)
+        {
+            Salario = sal;
         }
 
-        public virtual void MostrarAtributos()
+        public virtual double CalcularBonificacao()
         {
-            Console.Write($"Codigo: {Codigo}\tNome: {Nome}\t Endereco: {Endereco}");
+            return Salario * 0.10;
         }
     }
 }
