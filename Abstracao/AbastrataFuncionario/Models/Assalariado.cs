@@ -5,8 +5,13 @@ using System.Threading.Tasks;
 
 namespace AbastrataFuncionario.Models
 {
-    public class Assalariado
+    public class Assalariado : Funcionario
     {
-        
+        public override double CalcularSalario(int diasUteis)
+        {
+            return Salario / 30 * diasUteis;
+        }
+
+        public Assalariado(int c, string n, double s) : base(c, n, s) { }
     }
 }

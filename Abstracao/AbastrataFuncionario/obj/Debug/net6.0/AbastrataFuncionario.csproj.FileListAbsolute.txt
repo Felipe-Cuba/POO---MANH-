@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\bin\Debug\net6.0\AbastrataFuncionario.exe
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\bin\Debug\net6.0\AbastrataFuncionario.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\bin\Debug\net6.0\AbastrataFuncionario.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\bin\Debug\net6.0\AbastrataFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\bin\Debug\net6.0\AbastrataFuncionario.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\AbastrataFuncionario.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\AbastrataFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\AbastrataFuncionario.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\AbastrataFuncionario.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\AbastrataFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\AbastrataFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\refint\AbastrataFuncionario.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\AbastrataFuncionario.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\AbastrataFuncionario.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\Abstracao\AbastrataFuncionario\obj\Debug\net6.0\ref\AbastrataFuncionario.dll
