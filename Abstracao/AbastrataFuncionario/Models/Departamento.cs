@@ -58,5 +58,23 @@ namespace AbastrataFuncionario.Models
             return folhaPagamento;
         }
 
+        public void MostrarQtdeDependentesFuncionario()
+        {
+            int countDeps = 0;
+            
+            Console.WriteLine($"-=-=-=-=-=- Quantidade de dependentes: {Descricao} -=-=-=-=-=-\n");
+
+            foreach(Funcionario f in this.VetF)
+            {
+                int depFunc= f.CalcularTotalDependentes();
+                Console.WriteLine($"Funcionario: {f.Nome}\tQuantidade dependetes: {depFunc}");
+                countDeps += depFunc;
+            }
+            Console.WriteLine("\n------------------------------------------------------------------\n");
+            Console.WriteLine($"Total dependetes no departamento: {countDeps} ");
+            Console.WriteLine("\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n");
+            
+        }
+
     }
 }

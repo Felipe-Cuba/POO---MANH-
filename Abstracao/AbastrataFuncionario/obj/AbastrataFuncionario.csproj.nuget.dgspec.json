@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Documents\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\AbastrataFuncionario.csproj": {}
+    "C:\\Users\\CARLO\\OneDrive\\Documentos\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\AbastrataFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Documents\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\AbastrataFuncionario.csproj": {
+    "C:\\Users\\CARLO\\OneDrive\\Documentos\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\AbastrataFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Documents\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\AbastrataFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\CARLO\\OneDrive\\Documentos\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\AbastrataFuncionario.csproj",
         "projectName": "AbastrataFuncionario",
-        "projectPath": "C:\\Users\\Aluno\\Documents\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\AbastrataFuncionario.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Documents\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\obj\\",
+        "projectPath": "C:\\Users\\CARLO\\OneDrive\\Documentos\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\AbastrataFuncionario.csproj",
+        "packagesPath": "C:\\Users\\CARLO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CARLO\\OneDrive\\Documentos\\GitHub\\POO-MANHA\\Abstracao\\AbastrataFuncionario\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\CARLO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
