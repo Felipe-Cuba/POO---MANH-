@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\bin\Debug\net6.0\CarrinhoDeComprasSRP.exe
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\bin\Debug\net6.0\CarrinhoDeComprasSRP.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\bin\Debug\net6.0\CarrinhoDeComprasSRP.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\bin\Debug\net6.0\CarrinhoDeComprasSRP.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\bin\Debug\net6.0\CarrinhoDeComprasSRP.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\CarrinhoDeComprasSRP.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\CarrinhoDeComprasSRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\CarrinhoDeComprasSRP.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\CarrinhoDeComprasSRP.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\CarrinhoDeComprasSRP.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\CarrinhoDeComprasSRP.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\refint\CarrinhoDeComprasSRP.dll
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\CarrinhoDeComprasSRP.pdb
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\CarrinhoDeComprasSRP.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-MANHA\SRP\CarrinhoDeComprasSRP\obj\Debug\net6.0\ref\CarrinhoDeComprasSRP.dll
